@@ -1,0 +1,36 @@
+<html>
+ <body>
+   <table border="2" cellspacing="5" cellpadding="5">
+  <!--comment <thead>
+    <tr>
+    <th>I</th>
+    <th>II</th>
+    <th>III</th>
+    <th>IV</th>
+   </tr>
+   </thead>
+-->
+
+   <tr>
+   <td>Eng</td>
+   <td>Maths</td>
+   <td rowspan="5" align="center"> B<br>R<br>E<br>A<br>K </td>
+   <td>phy</td>
+   <td>html</td>
+   </tr>
+
+   <tr>
+   <td>Maths</td>
+   <td>Chem</td>
+   <td colspan="2" align="center">games</td>
+   </tr>
+
+   <tr>
+   <td colspan="2" align="center">phy</td>
+   <td>eng</td>
+   <td>maths</td>
+   </tr>
+
+  </table>
+  </body>
+  </html> 
